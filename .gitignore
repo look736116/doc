@@ -1,3 +1,4 @@
 #ignore the package files before compress
 /files/
-!/files/test.txt
+*.cf
+!test.cf
